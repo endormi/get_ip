@@ -9,10 +9,16 @@ When the limit is reached (current limit is 40), it sends the file to the given 
 
 Simple usage:
 
-Install:
+Clone:
 
 ```
-pip install -r requirements.txt
+git clone https://github.com/endormi/get_ip.git
+```
+
+Install:
+
+```bash
+pip install -r requirements.txt or ./install.sh
 ```
 
 Run:

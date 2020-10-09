@@ -18,7 +18,7 @@ git clone https://github.com/endormi/get_ip.git
 Install:
 
 ```bash
-pip install -r requirements.txt or ./install.sh
+pip install -r requirements.txt
 ```
 
 Run:
